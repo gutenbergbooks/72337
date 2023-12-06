@@ -1,0 +1,1450 @@
+
+
+
+
+                          Stay off the MOON!
+
+                          By RAYMOND F. JONES
+
+                         Illustrated by FINLAY
+
+              _How do you fill a pipette and measure out
+             a half c.c. of hydrochloric acid into a test
+               tube--from a quarter million miles away?_
+
+           [Transcriber's Note: This etext was produced from
+                    Amazing Stories December 1962.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+The real problem, of course, is not quite that simple. You don't
+literally fill a pipette or use a test tube; you activate metering
+circuits that force tiny, ground-glass plungers a measured distance
+into reagent pumps. You send signals that close some valves and open
+others, and apply heat and adjust temperatures, and filter solutions,
+and send the product to a spectrometer that determines what you've got
+and how much.
+
+Then you have to code it and get the information from the moon to earth.
+
+James Cochran had seen the equipment work through hundreds of checkout
+analyses. But he didn't understand it. He was a chemist, and he
+had drawn up the specifications for the chemical analyzers of the
+Prospector, but it had been the electronic boys who dreamed up the
+remote mechanization and the telemetry equipment that would allow him
+to sit before a complex panel at the Center and direct his chemical
+laboratory on the moon to learn what the moon was made of. Some of
+the light-headed technicians who worked on the project had dubbed it
+Operation Green Cheese, but Cochran had more respect for the complexity
+of the effort.
+
+It was Sunday midnight. The beginning of countdown was forty hours
+away. Cochran's crew had finished the chemical checkout, but in the
+assembly hangar technicians still swarmed about the Prospector, giving
+final-check to the power and telemetry components.
+
+Jim Cochran signed off the last of the check reports and dropped them
+in the slot for delivery to the Project Director. He turned off the
+lights over his own desk and went out to the hangar. Under the blaze
+of fluorescent lights the device looked like some monstrous insect.
+The differential housings over the worm-screw drives gleamed like a
+red, segmented carapace. The blue appendages of the solar cell boxes
+were extended as if in some frantic appeal. The radar dish and the
+helical antenna extended mutely upward. And, like a furious proboscis,
+the exploratory drill, which would pierce the moon's skin to a depth of
+five hundred feet, seemed to gnaw at the concrete floor of the hangar.
+
+Sam Jarvis, supervisor of electronic checkout, saw Jim Cochran enter
+and came over to him with a broad, weary grin. "AOK, so far! This
+package is going to be perfect. If only the rocket boys will set up a
+bird that will take it to the moon--"
+
+"They'd better," said Jim. "I don't think I could ever go through this
+again if they dump the Prospector in the drink."
+
+       *       *       *       *       *
+
+Sam turned back to look at the robot machine and the swarming
+technicians. "Yes, you could," he said. "All of us have gone through
+heartbreak time and again the past five years, watching them blow up,
+or fall back and burn in the atmosphere because the motors didn't
+ignite. Or seeing them get all the way to the moon and have some
+five-dollar transistor conk out. But we always have at it again. You
+will, too. You're new, but you're one of us now. You never back out
+when you've come this far."
+
+Watching the Prospector, Jim knew Sam was right. It had taken some
+persuasion to bring him to this point, however. Until a couple of
+years ago he had believed he would be content with ivory-tower plastics
+research for the rest of his life. The persuasion had been applied when
+Mary's brother, Allan Wright, had made the astronaut team.
+
+Allan and Jim had grown up together. There was no other person Jim felt
+closer to except Mary and their two children. Allan had dreamed of
+space when they were kids, and when he was fifteen, he said, "I'm going
+out there. I don't know how. But, somehow, I'm going out there."
+
+Now, he had been selected to captain the first Apollo voyage. He had
+been born for that purpose, he said.
+
+But while he was still in the general pool of astronauts he had opened
+his campaign to get Jim into the space program. "They need the best
+brains they can get," Allan said. "You haven't got any right to sit in
+a musty old plastics lab while guys with half your ability try to get
+us into space. NASA will take you tomorrow!"
+
+Jim didn't try to tell him that his plastics lab wasn't exactly musty,
+or that he didn't think of himself as one of the best brains in the
+country. But Mary sided with Allan; she was almost as excited about
+space as he was. In the end, Jim went to NASA. Within days, he had
+been assigned to head the development of the Prospector chemical
+mechanization.
+
+It had been something of a jolt to pull up all the roots he had so
+carefully put down for him and his family, and move to the hectic,
+bustling, space-frontier community of the Center. But he wasn't sorry.
+It put something new in the blood, something men had never known before.
+
+Space!
+
+The great Saturn lifted slowly, on a vast blossom of fire, with snowy
+lox streaming down its sides. Then it was gone, a twinkle of fire high
+above, among the stars. That was all.
+
+Mary and Jim Cochran continued to stare at the fading twinkle, and
+finally they turned away. Allan had obtained permission to be in the
+blockhouse during the firing. It hadn't been necessary for Jim to be
+there. He didn't want to know the instant-by-instant telemetry reports
+which told whether or not the flight was successful. Sam or Allan would
+call him when they knew. That would be soon enough for him.
+
+"Let's drive down to the beach and watch the moon from there," said
+Mary. "We can't just turn around and go home, like--like nothing had
+happened."
+
+Jim smiled in the darkness. Mary was as eager as he was for the success
+of the flight. And she didn't have his fear of failure, that kept
+him from wanting to know the maybe-yes, maybe-no indications that the
+telemetry would first show.
+
+"Sure," he said, "that's a good place to watch it."
+
+The moon.
+
+       *       *       *       *       *
+
+They watched its reflection thrashing on the water as the breakers
+rolled across, under, and around it. It was the same image that men
+had watched and wondered about and feared--for a half million years.
+The first creatures that had any semblance of manhood had sat on their
+haunches on this same shore and watched the same moon and the same
+water.
+
+And felt the same fears, Jim thought.
+
+He didn't know whether it was fear or not, but there was some sense of
+awesome mystery that filled him when he looked at the moon. It had been
+that way all his life. He remembered how it was when he was a boy and
+he walked through the fields at night on his way home. He had to pass
+Cramer's Pond, and when the moon was up its light from the sky and its
+reflection from the pond seemed to fill the whole earth with a cold,
+silver light. He always hurried past the pond on such nights.
+
+Mary felt it, too. "I wonder why the moon makes people feel the way
+they do."
+
+"How does it make people feel?"
+
+"Oh, kind of--kind of--_you_ know!"
+
+Jim laughed aloud. This was a typical Mary Cochran explanation. But it
+told him all he needed to know. What she said was quite true. He _did_
+know.
+
+The baying of dogs on a wintery, moonlit night.
+
+The madness called lunacy.
+
+Seeds must be planted just so, in relation to the moon, or the crop
+will fail.
+
+Men had always felt strange things about the moon. Would a Saturn
+missile and a mechanical monster in its nose be able to destroy all
+that?
+
+Jim started the car. "Let's get back. I've _got_ to know how the
+flight's going!"
+
+       *       *       *       *       *
+
+They were still in the blockhouse, but the tension was relaxed. They
+were talking and watching the meters and cathode ray tubes without the
+strain and fear of failure. Jim knew the answer even before Sam and
+Allan walked up to him and slapped him on the back.
+
+"Where the devil did you go?" said Sam. "I thought you were going to be
+right behind me when we fired, and you weren't here at all!"
+
+"It's like your first baby, you want to be there, and you don't. Was it
+a good shot?"
+
+"Was it a good shot?" Allan's face became ecstatic. "We've never had a
+better one. On course all the way!"
+
+The Project Director, Emil Hennesey was behind them. His face was
+bleak. "I expected you to be here for the firing, Cochran," he said.
+"It seems to display little interest in your end of the project that
+you didn't feel it necessary to show up."
+
+Jim looked at him steadily and shrugged without answer. Hennesey was
+one guy whose presence on the space team Jim couldn't figure out. He
+was an ex-Major, and he had no capacity for dreaming. Men, machines,
+transistors, rockets--they were all the same thing, merely objects to
+be made to obey.
+
+"You are aware of your next sequence of duties, I trust?" said Hennesey.
+
+Jim nodded curtly. "I'll be ready."
+
+       *       *       *       *       *
+
+Sixty-six hours to the moon. That's what it takes with marginal escape
+velocity and free-fall conditions. But it was really five hundred
+thousand years and sixty-six hours, Jim thought. Surely there hadn't
+been a single hour in all that time when someone, somewhere on earth
+had not felt the longing to solve the secret mystery of the moon.
+
+Now they were about to find the answer. But what would they have
+when they found it? They would know that the surface dust of the moon
+consisted of certain percentages of silicates and oxides. They would
+know that the under layers were composed of rocks, maybe of granite or
+limestone or basalt. They would determine how much of each.
+
+And then it would be over. The quest of the ages would be answered
+with a few simple statements that could be obtained in any high-school
+chemistry lab--if the lab were on the moon.
+
+Jim Cochran felt there _had_ to be more to it than that.
+
+Why do dogs howl at the moon on winter nights?
+
+Why do men say that madness of the mind is lunacy?
+
+Why must planting be done in the right phase of the moon?
+
+Little sleep was had by any of the crew during the next two nights,
+even though the instrument stage of the ship was now completely inert
+except for occasional telemetry signals that were fed to the computers
+for course checking and correction. The ship was simply falling on its
+own momentum.
+
+Six hours before moonfall, activities in the tracking center
+accelerated and the tension increased. There was no question of hitting
+the moon; the landing had to be made safe for the cargo of instruments.
+
+Jim Cochran watched the operators during this period. He told himself
+he didn't understand it, but he had actually learned a great deal of
+electronics during the past two years. He had had to in order to design
+and operate a chemical laboratory 240,000 miles away.
+
+The television screens came on, showing the pock-marked surface of the
+moon as the ship orbited. The thrill and the fear of the great unknown
+began to rise in Jim's throat. By the silence in the room, he was sure
+the others sensed it, too.
+
+Abruptly, the braking command was given and the ship began to fall
+out of orbit towards the planned landing in the Sea of Rains. On the
+screens, the images swelled as the ship plummeted faster. In one corner
+could be seen the spring-loaded extension legs, like those of some
+great spider. It seemed impossible that these could cushion the violent
+shock of landing.
+
+The sudden surge of a retro rocket and the blast of moondust blinded
+the television eye, but there was a sense of crazy, rocking, rolling
+motion. Then the eye went dead.
+
+Jim almost cried out. The ship couldn't have crashed.
+
+       *       *       *       *       *
+
+An operator quickly switched controls and the screens came alive again.
+He turned a dial slowly. The camera eye moved. It swept the craggy
+horizon and the nearby floor of the Sea of Rains. Others had seen this
+before, but it was the first time for Jim. He found himself pushing
+forward, drinking in the sight eagerly.
+
+"The moon--the moon--" he said softly to himself. But the others heard
+it and they understood.
+
+Signals were sent across space to collapse the landing legs and unfold
+the sides of the instrument cone like the leaves of a flower. The
+Prospector lay exposed to the environment for which it was built.
+Slowly, in response to other signals, the worm-screw drives, which had
+been retracted against the body of the vehicle, turned through an arc
+and lowered to the surface. Locked in position, the drive screws began
+turning slowly. The vehicle moved off the now-useless landing support
+and became an entity of its own.
+
+The ungainly arms of the solar cells automatically oriented toward
+the sun; the antennas pointed toward earth. The scanning cameras in
+the turret of the Prospector took control of the video circuits and
+the turret slowly turned as the vehicle moved across the face of the
+moon. The landing support remained behind and slowly dwindled like some
+useless wreckage.
+
+There was sudden pandemonium in the tracking center control room. The
+operators laid down their headsets and began pounding each other on
+the back, while ear-splitting Indian yells filled the air. Jim and Sam
+found themselves beating each other on the arms and yelling senselessly.
+
+"We made it!" Sam cried. "We made it! We got your little old laboratory
+up there for you!"
+
+       *       *       *       *       *
+
+There were hours of testing and calibration yet to be done before
+the Prospector could be used for its primary mission. Hundreds of
+electronic circuits had to be checked to see that they survived the
+takeoff and landing without becoming distorted or inoperative.
+
+Jim went home for the rest of the night. When he returned the next
+morning Sam reported that all circuits were go, and the Prospector was
+his.
+
+He had operated the laboratory in the Prospector many times, either
+on a mock-up or from this control panel while the Prospector was in
+the hangar. But he couldn't keep the faint tremor from his hand as he
+reached for the first control that would manipulate the machine on the
+moon.
+
+The drill had been extended to operating position, but the head had not
+yet been energized. Jim touched it to the fine dust of the floor of
+the Sea of Rains. The drill went quickly to a depth of eighteen inches
+in the dust before it struck something firmer.
+
+"That kills the theory about eighty feet of that stuff, anyway," said
+Sam as he read the instruments.
+
+Jim was not interested in depth at this time. He fed some of the
+surface material into the laboratory and set the controls to run the
+preprogrammed analysis. They waited minutes; then the analysis began to
+appear in cryptic symbols on a paper tape.
+
+Jim glanced at it and frowned.
+
+"What's the matter? Isn't it working right?" Sam asked anxiously.
+
+Jim hesitated. "It indicates the presence of several silicates, some
+carbonates, and a high percentage of oxides. These are mostly of
+sodium, calcium, and iron, as you might expect. But there's something
+wrong with your calibration. The atomic and molecular characteristics
+aren't coming through right."
+
+"The boys ran checks on the standard samples aboard the Prospector
+last night," said Sam. "The results tallied exactly. I'll show you the
+tapes."
+
+       *       *       *       *       *
+
+Jim waited, puzzled, while Sam brought up the check tapes. When he saw
+them, he shook his head. "There's a standard calcium carbonate sample
+carried aboard the Prospector. Here's a calcium carbonate picked off
+the surface. You can see the difference yourself. The nominal analysis
+is the same, but the atomic weights and the energy levels are just
+slightly different. That doesn't make sense unless your circuits are
+out of calibration."
+
+"Let's run another standard sample," said Sam.
+
+Within a few minutes the calibration check had been repeated. Jim held
+up the tape. Sam peered over his shoulder. "Just like the first one,"
+said Sam. "Nothing's wrong with the circuits. Maybe you've got some new
+stuff there, that's never been identified before."
+
+"That's hardly possible," said Jim. "There aren't any new elements
+in the places where sodium and calcium and silica are supposed to
+be. Yet, I don't understand how this can be. If the atomic weights
+are different, and the energy levels are different, they have to be
+different elements. It doesn't make sense."
+
+"Well, why don't we push on," said Sam, "that is, if you've completed
+the surface sampling in this spot. Some samples at lower depths may
+give other indications."
+
+Jim agreed. He drove the drill deeper into the face of the moon.
+At ten-foot intervals he removed samples and ran them through the
+analyzer. The results were the same down to the hundred-foot level.
+All results showed common chemical elements with slightly variant
+atomic characteristics.
+
+Which made them _different_ chemical elements!
+
+After six hours, Jim stood up from the console and shook his head
+wearily. "It's no good, Sam. There's something wrong that I can't put
+my finger on. If it isn't in the circuits, I don't know where it is.
+But these readings just aren't right. There's no use going deeper until
+we find out where the error is."
+
+Sam's face was somber. "There just isn't any error. There can't be.
+Unless it was made by whoever put the moon together--"
+
+"Please make a complete check of every analyzer and telemetry circuit
+tonight, and we'll try again tomorrow. I want to think about this."
+
+       *       *       *       *       *
+
+He thought about it, and he dreamed about it. And along about three
+o'clock in the morning he sat bolt upright in bed and stared at the dim
+moonlight on the opposite wall of the bedroom.
+
+It wasn't possible, he told himself audibly. It just wasn't possible!
+
+Mary stirred and leaned on one elbow beside him. "What's the matter.
+Are you having nightmares?"
+
+"Yeah--yeah, I guess I am. I'll be back in a minute, honey." He got up
+and padded to the door. "I've got to make a phone call."
+
+"At this time of night?"
+
+But Jim was gone. He turned on the hall light and dialed Sam's number.
+After a long time Sam answered sleepily.
+
+"Wake up!" said Jim. "I've just figured it out!"
+
+"Who the devil--? Oh, it's you, Jim. Figured out what? Do you know what
+time it is."
+
+"Do you know the results of your calibration re-check?"
+
+"How would I know that? I've got the night crew on it, but I didn't ask
+them to report to me in the middle of the night. Go back to bed, and
+let's talk about it in the morning."
+
+"They're not going to find anything wrong, Sam."
+
+"I could have told you that."
+
+"But the elements of the moon are different--and there's only one
+explanation."
+
+"What?"
+
+"Think about it a minute, Sam. We take a spectrograph of the sun, and
+we find the same elements that are here on earth. We turn it on Alpha
+Centauri and find the same thing. We turn it to the farthest stars we
+can find that give enough light to record by. Always the same. Calcium
+is calcium, whether it's on the earth or on a star a half billion light
+years away."
+
+"So?" Sam's voice was tired, and he sounded as if he was listening only
+because Jim was too good a friend to tell to go to hell for calling in
+the middle of the night.
+
+"So? So what?" Sam repeated.
+
+"So we go to the moon," said Jim, "and all of a sudden calcium isn't
+calcium, and the sodium on the moon isn't the same as the sodium on
+earth and on the sun and on Alpha Centauri and the stars a half billion
+light years away. Don't you see what that means!"
+
+"No, I guess not," said Sam dully. "Maybe in the morning--"
+
+"It means the moon just doesn't _belong_, Sam! It means the moon is
+completely foreign to anything in the Solar System, in the whole
+galaxy--in any galaxy we have been able to analyze. It means the moon
+has come from somewhere else, from a region of space where atoms and
+electrons are not even the same as atoms and electrons here. It must be
+a somewhere that's so far away it's beyond the edge of space as we know
+it!"
+
+"I'll get dressed and come over," said Sam.
+
+       *       *       *       *       *
+
+Mary made chocolate and toast, and they sat around the kitchen table
+thinking and talking of the awesome implications of Jim's theory.
+
+"If what you say is true," said Sam, "it might be that the slightest
+contact with any substance of the moon would be sheer poison to a human
+being. A returning vessel could never be permitted to enter the earth's
+atmosphere, and decontamination would become one of the major branches
+of science."
+
+"That's entirely possible. It would complicate enormously the problems
+of establishing a moon-base. A speck of moondust inside the base might
+be as lethal as an unshielded reactor."
+
+Mary was looking out the kitchen window toward the thin crescent of
+moon that was setting over the city. She thought of Allan, who would
+soon be voyaging to that alien world. "It's like a trap up there in the
+sky. We should never have tried to reach it."
+
+"No--it's not like that at all," said Jim vigorously. "We'll solve
+whatever problems we find there. But think of it! We don't have to
+build a ship capable of crossing billions of light years of space to
+see what's out there. Something from out there has come to us and
+parked right in our own front yard. We have a thousand times more
+reason to go now!"
+
+Sam toyed with his toast and dunked it in the chocolate. "I think you
+ought to keep it quiet--until we really _know_, don't you."
+
+"Why? I'll run some more tests, sure. I'll plug every loophole there
+can possibly be. But unless I find something new I'm going to announce
+it. Why shouldn't I?"
+
+"I don't think Hennesey will like it, for one thing. Too sensational.
+Even when we actually land there and confirm your analyses by
+on-the-spot checks--it's still only a theory that the moon doesn't
+belong to this galaxy. You'll never be able to prove that."
+
+"What we've found already is proof enough!"
+
+"Not for Hennesey. He'll ask to see the shipping manifest by which the
+moon was transferred here. You know Hennesey."
+
+"Sure, I know Hennesey," said Jim bitterly. "And he doesn't count.
+Not in something like this. This is big, and important, and I'm going
+to announce it. I want the credit for discovering it. It'll be called
+Cochran's Theory, and some University will offer me at least an
+honorary Ph.D. Is that bad?"
+
+Sam shook his head. "Of course it's not bad. But I wonder what the
+public reaction will be like, and how about Congress--especially if
+this business about possible poisoning from moondust turns out to be
+correct? There might be a lot of pressure to cut funds and maybe cancel
+the whole moon project."
+
+"If moondust is lethal, there's no better time to be warned against it
+than right now!"
+
+       *       *       *       *       *
+
+He spent the following week, eighteen hours a day, at the chemical
+analysis panel in the tracking station. As long as the moon was above
+the horizon, day or night, he kept experiments going--checking,
+re-checking, calibrating, searching for loopholes.
+
+There were no loopholes. There was no malfunction of equipment. The
+atoms of the moon's elements were not the same as those of the rest of
+the galaxy.
+
+When Allan next came to visit on leave from his own station, Jim told
+him what had been found. Allan's face paled a little as he listened in
+awe to the story. He stood up and paced across the room as Jim finished.
+
+"I always knew there would be something--something extra in this," he
+said. "You look up at night and you know the moon can't be just another
+piece of earth. Now--you've found out what it is!
+
+"How far could it have come? How old can it be? Imagine stepping out
+onto a world so old, from so far away!"
+
+"You haven't heard it all," said Mary tensely.
+
+"There's more?"
+
+"They think perhaps the slightest touch of moon substance may be
+lethal."
+
+"We don't know," said Jim hastily. "It's a thought that Sam advanced.
+But I think it's quite possible. We won't know until we can run animal
+tests. But special precautions will have to be taken to decontaminate
+the Apollo after you re-enter with your space-suits."
+
+"This will mean engineering changes. Are they under way?"
+
+"I haven't announced my theory yet. But the necessary changes to
+provide for decontamination will have to be made."
+
+"I wanted this as much as you," said Mary. "But now it's gone all
+wrong. We should have gone on dreaming about the moon and let it be a
+dream that never came true. I'm afraid of it now. No man should set
+foot on something so alien and so different."
+
+Allan put an arm around her shoulders and shook her gently. "Sis! What
+kind of talk is that? You're talking to the guy who's going to be the
+first one to put his foot on the moon."
+
+       *       *       *       *       *
+
+From the mountain of data accumulated in his experiments, Jim wrote his
+paper. Hennesey could control the publication of any material based on
+space experiments to the extent that they affected national security.
+But even he could not find a means to extend a security blanket to
+cover a theory of extra-galactic origin of the moon.
+
+He raged at Jim, however. "You'll make a laughing stock of us in every
+scientific center of the world! You can't publish a ridiculous thing
+like this!"
+
+"No one will laugh if he reads the data I've got to present," said Jim.
+"Every member of our staff who knows the subject has verified that the
+data are correct. The conclusion is inescapable."
+
+"I can't forbid publication, Cochran," said Hennesey, "but I think it
+is very unwise for you to go ahead. Very unwise."
+
+"I'll take that risk," said Jim.
+
+He sent the paper to the Journal of Astro-physics. At the same time he
+sent an announcement to the major news services.
+
+He had expected some sensationalism in the reporting. There was more
+than he bargained for. Some of the headlines that followed were:
+
+"Savant Says Moon is Messenger from Outer Space."
+
+"Moon Will Poison Earth."
+
+"Moon Trip--One Way only."
+
+The reactions in the upper echelons of NASA were almost as bad--in
+their own way. No thought had ever been given to a need for complete
+decontamination of astronauts and equipment after exposure on the moon.
+The requirement, if admitted, would threaten the entire program in
+the minds of some of the engineers. Others admitted it was tough, but
+thought they could solve it in an extra year or so. Rumblings were
+heard echoing down from Congressional halls. Why hadn't the stupid
+scientists known in the beginning that this was necessary? Always
+bungling things--
+
+In the end, it was Alan himself who came up with a proposal that kept
+the project from bogging down and still provided some measure of
+protection against the possible menace. He suggested a plastic outer
+suit to be fitted over the space-suit and discarded as the astronaut
+re-entered the space vehicle. With care, such a procedure could prevent
+direct contact with moondust. In the meantime, it was hoped that robot
+vehicles could bring back moon samples before the Apollo was sent out.
+
+This rather mild proposal did much to calm the furor in NASA and
+contractor engineering circles and soon the press had abandoned it
+for other, more sensational stories. But Hennesey and a number of
+other officials didn't forget. Some of them believed Jim Cochran was a
+charlatan at worse and an incompetent at best. They considered he had
+degraded American science with his fantastic theory.
+
+Scientific judgement was being held in abeyance until actual moon
+samples were available on earth. For the present, at least one of
+Jim's predictions had come true. The hypothesis was becoming known as
+Cochran's Theory. That it was also called Cochran's Idiocy by a few
+didn't matter.
+
+Jim continued his own sixteen-hour stints at the analyzer controls,
+probing in a wide pattern over the floor of the Sea of Rains, and
+striking deeper toward the heart of the moon with each probe.
+
+Probing to such great depths was made possible by a development that
+didn't even exist when the Prospector design was begun. Then, it was
+hoped that penetration to a foot and a half of the moon's surface might
+be possible. Five-hundred-foot holes were only a madman's nightmare.
+How could you carry such drilling equipment all the way to the moon?
+
+Then, in the last months of Prospector design, laser devices had been
+produced, capable of burning holes in a diamond. It was only a small
+step, then, to the design of a drilling head which mounted a cluster of
+laser beams. These would literally burn their way toward the heart of
+the moon.
+
+       *       *       *       *       *
+
+The laser drilling head was lowered on five hundred feet of minute
+cable, which had tremendous tensile strength. The vaporized moon
+substance boiled out of the hole and condensed above the surface,
+settling as fine dust. As the hole deepened, the condensation products
+coated the upper portions of the hole and the cable. To keep the hole
+from thus being closed, the cable was vibrated at a frequency that
+shook loose the condensing rock products, and the laser head was raised
+with beams shooting upward to clear the hole.
+
+Jim found that a very special technique was required to raise and lower
+the head at the proper intervals to keep the hole clear and prevent
+loss of the drilling head. A spare was carried, but he didn't want to
+face the loss of even one. After three weeks, he felt confident in his
+operation and began lowering the drilling head to depths of two hundred
+and three hundred feet.
+
+As he had expected, along with the lunar geologists who were
+participating, the moon showed a definite pattern of stratification.
+But the differences between the layers seemed slight. Chalky, calcium
+compounds were abundant. Some were powdery; others were pressed into
+brittle limestone formations. No really hard rocks such as granite were
+encountered, however. The boundaries between layers were ill-defined.
+No one knew what to make of it. The observations were interesting.
+Explanations were wholly lacking.
+
+Then, after five weeks of probing, on the edge of the four-hundred-foot
+level, Jim found something new. He sought out Sam at the end of the day.
+
+"A few years ago," he said, "scientists were startled to find chemicals
+that were the product of life, inside meteors from outer space."
+
+"I understand they've even found bacteria which they have been able to
+bring to life," said Sam.
+
+Jim nodded. "More than four hundred feet deep on the moon I've found
+the same kind of chemicals--hydrocarbons that must be the product of
+living cells."
+
+"Four hundred feet deep on the moon--" said Sam musingly. "And maybe
+the moon came from billions of billions of light years across space. So
+wherever it came from there was something living. What is it? Traces of
+bacteria, or chemical remains of plant life like our coal mines?"
+
+Jim shook his head. "I don't know yet. I'm not sure we can find out
+until we go there. But, as you say, it means the moon was once the
+scene of life--wherever it came from."
+
+"One thing I haven't understood," said Sam, "is why the moon stopped
+here if it had been traveling through space for so long. Why didn't it
+keep on going?"
+
+"It was just a combination of factors," said Jim. "The moon happened
+to be traveling at just the right speed. The earth was in just the
+right place at the right time. As a result, the moon fell into an orbit
+around the earth. Pure accident."
+
+"A lucky accident!" said Sam.
+
+Jim looked up at the pale moon above their heads as they walked toward
+the parking lot. "I hope so," he said. "We will soon know whether it
+was a lucky or an unlucky accident."
+
+       *       *       *       *       *
+
+The moon laboratory had not been designed for extensive organic
+chemical analysis. There were only a few things it could do with
+organic compounds. But these were sufficient to convince Jim that the
+moon had once been the scene of life.
+
+Why so deep? he wondered. Nothing had been found in the upper levels,
+unless he had missed it--he would have to check that out later.
+
+As the drilling head moved slowly downward, the evidence of fossil
+hydrocarbons increased. There seemed to be an almost geometric increase
+in concentration after he passed the four-hundred-foot level. He was
+certain the drill was penetrating a bed of fossil remains of some form
+of life that flourished the little planet that the moon must have been
+incalculable eons ago.
+
+The more he thought about his theory, however, the more difficult
+it became to explain all the factors. If the moon had actually been
+a planet of some far distant system, what had torn it loose from its
+parent sun and sent it careening through space? Had its sun exploded,
+blasting whatever planets the system held into the depths of space?
+Such an occurrence might explain the sterility of the moon's surface,
+but why was the evidence of life buried so deep? Perhaps the upper
+layers of the moon's surface consisted of debris blasted from the
+exploding sun. Such debris would have been molten, flowing about the
+moon's surface, cremating everything living. Finally, it would have
+shrunk in the cold depths of space and wrinkled into the vast mountains
+and cracks that laced the moon's surface.
+
+It was one way it could have happened, but it seemed so fantastic that
+Jim had difficulty in convincing himself that it was true.
+
+He doubted the accuracy of his analyses. There were so many tenuous
+links between the substance on the moon and his own senses that an
+error in any one of them could destroy the accuracy of the results. But
+he had no reason to doubt.
+
+He began making calibration checks before and after every analysis. It
+added scores of hours to his work. Sam sat beside him, checking and
+verifying the accuracy of the telemetering circuits constantly. The
+operation was as foolproof as their science could make it.
+
+"You've got to believe what you find," said Sam. "There's no other
+answer."
+
+And then, one day, Jim found an answer that was utterly impossible to
+believe. His mind balked and closed up completely at the thought.
+
+Sam had been watching him for almost three hours, aware that something
+had perturbed Jim exceedingly. Sam kept his mouth shut and leaned
+quietly against the desk of his own console, keeping check on the
+circuits while he watched Jim grow more and more distressed. Sam didn't
+understand the processes, but he was aware that Jim had been going over
+and over the same analysis for almost two hours. At last Jim's face
+seemed to go utterly white, and his hands became motionless on the
+console.
+
+Sam waited a long time. Then he asked, "What is it, Jim? What's the
+matter?"
+
+Jim continued to stare at the panels of the console, then answered as
+if from some far nightmare distance. "Two chemicals, Sam," he said.
+"One of them a big molecule, something like hemoglobin. And neither of
+them could exist as fossils. Their structure would have broken down
+long ago. They could exist only in _live_ tissue!"
+
+He continued staring. Neither of them moved. Sam felt as if he had just
+heard something in a nightmare and had only to wait a minute until he
+woke up. Then it would be gone.
+
+Jim turned his head at last and faced Sam. He gave a short, harsh bark
+of a laugh that sounded half-hysterical.
+
+"We'd be off our rockers, wouldn't we Sam? Clear off our rockers to
+believe there could be something alive five hundred feet inside the
+moon!"
+
+"Sure--and if it were alive, it wouldn't be sitting still while the
+laser beams drilled a hole into it. Besides, we just couldn't be lucky
+enough to lower the drill right smack into some cave where a moon bear
+was hibernating. All the circuits must have busted down at the same
+time. We'll fix it tomorrow. Let's get the girls and have a night on
+the town."
+
+       *       *       *       *       *
+
+It was a very unsuccessful night on the town. Jim and Mary, and Sam and
+his wife went to a show and a nightclub.
+
+"You're moving like a zombie. What's the matter?" said Mary as she and
+Jim danced together.
+
+"Feel like a zombie. Why don't we give it up and go home? I want to
+get down to the lab by five in the morning."
+
+"That's the trouble. You've done nothing but live in the lab since the
+Prospector landed. So we're not going home. Sam and Alice are having
+a good time. You dance with Alice next, and make her think you're
+enjoying it!"
+
+So Jim didn't go to bed at all, but he _was_ at the lab by five in the
+morning. The night crew were still at work. He had steered them away
+from the analyses he was doing so they were unaware of the shattering
+results he had found.
+
+He took over the controls, and resumed work alone.
+
+There was no doubt about it. If any of the methods they were using were
+accurate, then he had discovered almost indisputable proof that some
+living tissue existed five hundred feet below the surface of the moon.
+
+Since the laser drilling head sealed the walls of the hole with a
+coating of frozen lava, it was necessary to probe horizontally for
+samples. Small extension drills, capable of reaching five feet on
+either side of the hole, were carried in the head for this purpose.
+
+Jim lowered the head through the last twenty feet of its drilling
+limit. Every six inches he sent the horizontal probes to their limits.
+The tell-tale chemicals existed at every point. He computed the volume
+he had probed, and felt numb.
+
+By the time Sam had shown up, Jim had withdrawn the probe to the
+surface and was moving the Prospector slowly across the moon's surface.
+
+Sam saw the motion on the television screen. "Where are you going? I
+thought we were going to check out the hole we were in."
+
+"It's been checked," said Jim. He hesitated. His original plan had been
+to move the Prospector a distance of fifty feet and probe again to the
+five-hundred-foot level. Then, decisively, he pressed the control that
+kept the Prospector moving. He stopped it a hundred feet from the
+previous hole and began the long, tedious job of drilling again to the
+limits of the Prospector's equipment.
+
+       *       *       *       *       *
+
+Sam spelled him off during the day. By evening, they had hit the
+four-hundred-and-fifty-foot level. Jim took his first analysis in this
+hole. The chemicals were there. In greater concentration than at the
+same level in the previous hole.
+
+Jim turned to Sam. "We have circuits for measuring potential
+differences on the lunar landscape. Could we make a reading at the
+bottom of this hole?"
+
+Sam considered. "It'll take some doing, but I think we can manage it.
+What do you expect to find from that?"
+
+Jim didn't dare tell him what was in his mind. "I don't know," he said.
+"But it might be worth trying--if there _is_ anything living down
+there--"
+
+By the following afternoon, Sam had made the necessary equipment
+arrangements so that potential readings could be obtained in the mass
+from which the chemical samples were being removed. The telemetered
+report was connected to a recorder that plotted the variations against
+a time scale.
+
+As soon as the circuit was set up and calibrated, the recording meter
+showed a response. A very slow, rhythmic pulsation showed in the inked
+line on the paper.
+
+Jim felt as if his breathing must have stopped for an infinite length
+of time. "That's what I thought we'd find," he said at last.
+
+"What?" said Sam. "I don't understand what you're talking about. What
+do you think those pulsations mean?"
+
+"Did you ever hear of an electroencephalograph?" said Jim, gravely.
+
+"Electro--Sure, brain wave recordings. Jim! You don't think these
+waves--!"
+
+In silence, the two men stared at the wavering pen and the sheet of
+recording paper that slowly unrolled beneath it.
+
+       *       *       *       *       *
+
+Dr. Thomas Banning had been a class mate of Jim Cochran when they were
+both in their first couple of years of college. Banning had gone on
+into medicine, specializing in brain studies, while Jim had turned to
+chemistry. The two had been out of touch for several years.
+
+Tom Banning was the first one Jim thought of, not only because of their
+old friendship, but because he had read recent papers describing some
+of Tom's new work on the frontier of electroencephalography. He called
+first on the phone, then arranged for a personal visit. Sam went with
+him. They had closed down all Prospector work while they were to be
+away.
+
+       *       *       *       *       *
+
+Tom met them and was introduced to Sam as he ushered them into his own
+modest laboratory. "This isn't the plush sort of surroundings you've
+become used to," he said as he showed them around. "The Government
+isn't spending billions these days trying to find out how the human
+mind works."
+
+Jim could well understand Tom's bitterness. Doing research on the
+frontiers of the mind, he was forced to spend his own money for much of
+his laboratory equipment.
+
+"I can sympathize, but that's about all," said Jim. "I just work here
+myself."
+
+"Tell me about your problem. On the phone, that sounded interesting
+enough to make a man's day brighter. You said something about an
+unknown life form with electrical pulses that might be related to brain
+waves?"
+
+Jim nodded. "That's the way it looks to me."
+
+"But where does this life form exist? Surely it can be identified!"
+
+"If I told you, you'd throw me out or call the paddy wagon. Look at
+these, first."
+
+Jim and Sam spread out the long folds of chart they had accumulated
+through days of recording. "Does it look like anything to you?" asked
+Jim.
+
+Tom Banning frowned. "Well, it certainly _could_ be an EEG record of
+some kind. The apparatus--"
+
+"The apparatus was nothing but a single electrical probe, and the
+signal was transmitted under very unsatisfactory conditions."
+
+"Signal transmitted, you say? Just where did this come from, Jim? You
+didn't come all this way just to pull my leg."
+
+"No," said Jim wearily. "If anybody's leg is being pulled, it's mine.
+I wanted to see if you could recognize it as having any similarity to
+an EEG. Then I wanted to ask about your work you reported in your last
+paper. The one on 'EEG as a Brain Stimulus and Communication Medium'."
+
+"Yes? What did you want to know about that?"
+
+"You've had some success in taking the EEG waves of one person and
+applying them to the brain of another person so that the latter
+understood some of the thoughts of the first person while being
+stimulated by his brain waves."
+
+"Yes."
+
+"Would it be possible to do that with this record?"
+
+Tom studied the record silently. "Any cyclic electric impulse can
+be applied as a stimulus to the brain. Certainly, this one can. My
+question still remains, however, what kind of a creature generated
+these pulses? If it is so alien you can't even identify it, we can't
+really be sure that these are brain waves. I can only say they may be."
+
+"That's good enough for me," said Jim. "How about setting it up so that
+we can see if these tell us anything."
+
+"I think I ought to make you tell me where you got these, first."
+
+"Afterwards, please, Tom."
+
+       *       *       *       *       *
+
+It took the rest of the day to transcribe the record to the format
+required by Tom's light-intensity reader. They set the following day
+for the experiment.
+
+Both Sam and Jim were to participate. Tom applied eight electrodes to
+the skull of each man. They reclined in deep sleep-back chairs, and Tom
+suggested they close their eyes.
+
+Jim began to feel a sense of apprehension as he heard the first faint
+whine of the equipment. He knew the transcribed tape was unreeling
+slowly beneath the photo-electric scanner. The resulting fluctuating
+current was being amplified, filtered, gated to the proper level, and
+applied to the electrodes on his skull. He felt nothing.
+
+"Just like a ride on the merry-go-round," he said in disappointment.
+
+Then it struck.
+
+Like a fearful, billowing blackness rising out of the depths of Hell
+itself, it washed over him. It sucked at his very soul, corroding,
+destroying, a wind of darkness where the very concept of light was
+unknown.
+
+He was not conscious of his screaming until he heard his own dying
+voice and grew slowly aware of the sudden rawness of his throat. He
+heard another screaming and it sounded like Sam. Dimly, he wondered
+what had happened to Sam.
+
+Tom was bending over him, patting his face with a cold towel and
+murmuring, "Wake up, Jim! You're all right now. You're all right."
+
+He opened his eyes and saw Tom, white-faced. He turned and looked at
+Sam, whose head lolled sluggishly while a low whimpering came from his
+lips.
+
+"I'm all right," said Jim weakly. "Take care of Sam."
+
+Exhausted, he leaned back and closed his eyes another moment. Sweat
+oozed from every pore of his skin, cold, fear-inspired sweat.
+
+       *       *       *       *       *
+
+An hour later, he felt completely recovered from the experience, except
+that his knees were still a little wobbly when he tried his legs.
+
+"We've got to try it again," Jim said. "Can you cut down the intensity
+a little? Better still, how about rigging up an intensity control that
+we can operate for ourselves?"
+
+"Nobody is trying that thing again in my lab," said Tom Banning. "Do
+you think I want a couple of corpses on my hands? Not to mention the
+droves of police that your screaming will bring down."
+
+"We've got to _know_," Jim said. "Listen, Tom, I'll tell you where we
+got this record. Then you can judge for yourself."
+
+Rapidly, he told Tom all that had happened since their first experience
+with the Prospector. The brain specialist listened impassively until
+the end of the story.
+
+"So you conclude there's something monstrous on the moon, and this
+experience you've just had would indicate that it's highly inimical to
+human life," said Tom.
+
+"That's about it," said Jim.
+
+"What do you expect to do about it?"
+
+"I want to finish what we started here. Then I've got to show the
+authorities that the moon project has got to stop. We can't go ahead
+with our moon landings now. If we do, that thing will be stirred out
+of dormancy into life--and, somehow, it will make its way to earth. I
+wouldn't be surprised if it could navigate space alone, its own naked
+being."
+
+Tom turned back to his equipment. "All right, let's go. I want to get a
+sampling of that before we're through, too."
+
+With a control that he could operate himself, Jim found it endurable.
+With the control at minimum intensity, he tensed for that first
+terrible impact of the alien impulses pouring into his own mind.
+
+They were weaker, but still he felt as if the shroud of death had
+settled over him. He heard a moan from Sam and knew his companion was
+experiencing the same sensations.
+
+The impulses of evil poured on through the electrodes into his mind. He
+sensed the immensity and purpose of the thing that had generated them.
+He sensed that out of some far reach of space, where time and dimension
+were not the same, the thing had acquired an eternal nature of a kind
+that knew no birth and could experience no death in the dimensions of
+man.
+
+He sensed that its nature and its purpose were pure destruction.
+Destruction of life in any form. It was a thing of death, and life and
+it could not exist in the same universe.
+
+He sensed how it had come and why it had come, and the partial defeat
+that had sent it into dormancy because there was no life of the kind it
+knew in the universe through which it hurtled.
+
+Now--it was once again aware of life.
+
+       *       *       *       *       *
+
+The three of them went back to the tracking station laboratory
+together. Jim managed to obtain a clearance for Tom to see what they
+were doing. "I want to move the Prospector a long distance and try one
+more hole," he told Sam.
+
+"What do you mean by a long distance?"
+
+"A hundred miles."
+
+"A hun--! You think you'll still find this thing that far away?"
+
+"We'll find out. Can the Prospector travel that far?"
+
+"Sure. If you wait long enough. Its maximum speed is two miles an
+hour."
+
+"A little better than two days. Let's pick the direction of the
+flattest and lowest terrain. I don't want to get it up into the
+mountains."
+
+During the following two days, Jim considered what his next move should
+be. He had to present his data and evidence to a conference of men who
+mattered, who could make the necessary decisions. It had to be brought
+to the attention of the top levels of NASA. The Department of Defense
+and the Presidential advisors should be in on it, too.
+
+His thoughts came to a stop and he felt more than a little hysterical.
+Who was he? A third-string chemical researcher on one of dozens of
+current NASA projects. Who was going to let him call a conference of
+the nation's brass and instruct them to close down the moon program?
+
+Nobody.
+
+In the Civil Service hierarchy to which he belonged there was
+absolutely no way on earth by which he could bring his story to the
+attention of the people who could act on it.
+
+No way at all. But he had to try.
+
+He tried to reach the Director of NASA. The Director's secretary told
+Jim the Director was out of town and could not be reached except for
+emergency or other top-priority communications. Jim said that was
+exactly the nature of his message. The Secretary told him to get his
+Project Director to approve the message and an effort could be made to
+get it through.
+
+That meant Hennesey.
+
+Hennesey laughed in his face, and told him that one more fantasy like
+that would get him fired.
+
+Jim had known that's the way it would be, but he had to try.
+
+By this time, the Prospector had traveled more than ninety miles from
+the last probe. It was far enough, Jim decided. They'd put down one
+more probe, then--he didn't know where he'd go from there.
+
+Sam saw the bleakness and bitterness on his face when he came into the
+tracking station. "No luck?" said Sam.
+
+"What do you think? Have you ever realized that there is no way
+whatever for the ordinary citizen to get through with a message that
+requires action at the top? Channels, supervisors' approvals, okays by
+supervisors' supervisors--the only communication the top level has is
+with itself; generals talk to other generals, Bureau Directors talk
+to generals and other Bureau Directors, the President talks to his
+advisors who talk only to each other. The communication barrier is
+complete and absolute."
+
+"I could have told you that," said Sam. "I've been here longer than you
+have. But some of them may still read a newspaper now and then."
+
+"What do you mean by that?"
+
+"Call a news conference of the science editors and reporters of the
+major press services and big-city newspapers. Your reputation is big
+enough that they'll listen to you."
+
+"You saw what they did to me last time!"
+
+Sam shrugged. "Maybe you know a better way."
+
+       *       *       *       *       *
+
+Jim took his seat at the console and watched the slow progress of the
+Prospector across the moon's surface. It was winding its way through
+an area of small, low crags. Ahead was a smooth, level plain. Jim
+determined to halt there and make the next probe.
+
+Out of the corner of his eye he saw Hennesey moving toward them. He
+could think of nothing that would make the day more unpleasant than
+Hennesey's presence.
+
+The Project Director scanned the panels and the meters that showed the
+distance traveled by the Prospector.
+
+"Why have you moved the machine so far?" Hennesey demanded. "You've
+used up valuable machine time that could have been used in additional
+probes. We may be approaching the end of the useful life of the
+Prospector very rapidly."
+
+"I am aware of that," said Jim icily. "The stock of reagents aboard is
+nearly exhausted. I wanted to make at least one comparison probe at a
+considerable distance from our original site."
+
+Hennesey grunted and remained silent, watching. Then, suddenly he cried
+out, "Look out! You fool--!"
+
+Jim had seen it, too. At the edge of the crags was a ten-foot wide
+fissure spreading darkly on either side of the Prospector. The drives
+of the machine were upon it before he realized it was there. In fact,
+the crazy thought echoed in the back of his mind that it _wasn't_ there
+an instant before.
+
+He slammed his hand against the switches that sent out a reversing
+signal to the drives of the Prospector. But it was too late. The worm
+drives bit into nothingness as the machine toppled slowly at the edge
+of the crevasse. And in that moment, as the image on the television
+screen teetered crazily, Jim had the impression that he was looking
+into the black depths of utter horror. There was a blackness oozing
+and writhing faintly in the depths--that could have been thirty or
+a hundred feet deep. But he had seen just such a black horror once
+before.
+
+When the EEG signals from the moon first smashed into his brain!
+
+He glanced at Sam. Sam was staring in a kind of intense horror that
+told Jim he recognized it, too.
+
+The image tilted abruptly against the black moon sky. Then the screen
+went dark. And Jim had the feeling that the blackness had closed over
+him.
+
+But Hennesey had sensed nothing of this. He was cursing and raging
+beside Jim. "You blind, brainless fool! You wiped out a billion-dollar
+experiment because you weren't looking! You're through, Cochran! Get
+everything that's yours and be out of here in ten minutes!"
+
+Hennesey whirled and strode away, his rage reeking through the
+atmosphere of the room.
+
+Jim stood up and moved to the back of the panel. He opened the plastic
+doors and clipped the last ten feet from the spool of TV recording tape
+and slipped it in his pocket. When he returned to the other side of the
+console, Sam was waiting for him.
+
+"Where are you going?" said Jim.
+
+"With you."
+
+"Where's that?"
+
+"I don't think you know, but I do. I'll tag along and see if I'm right."
+
+"You're crazy. Didn't you just hear Hennesey fire me?"
+
+"Yeah. I quit at the same time."
+
+"You're really crazy."
+
+Jim had a few textbooks and scientific papers in his desk. He arranged
+for one of his men to clean them out. He didn't feel that he could
+endure remaining in the station any longer.
+
+Tom Banning followed them out into the sunshine of the parking lot.
+"I'm sorry," he said, "but it looked as if what happened back there was
+rather inevitable."
+
+"It was," said Jim. "I'd have kicked his teeth in sooner or later. It's
+better this way."
+
+"What will you do now?"
+
+"Ask Sam. He seems to think he has some crazy idea of what I'm going to
+do next. I sure don't."
+
+"The news conference," said Sam. "You'd better call it right away
+before news of your dismissal gets out. They may think you just want to
+unload some sour grapes if they hear of that first."
+
+"Yeah, I guess you're right. Will you back me up in the conference,
+Tom?"
+
+The doctor nodded. "Gladly. It's pretty hard to believe, but you've got
+me believing."
+
+       *       *       *       *       *
+
+Jim was personally acquainted with most of the newsmen who showed up
+for his conference. He had met them and helped them get stories on the
+Prospector during the past two years. They were sympathetic toward him.
+
+He began his story by reviewing his initial discovery of the difference
+in moon elements. He explained the analysis and showed them samples of
+the telemetry record. Then he eased slowly into his discovery of fossil
+hydrocarbons and finally the living hydrocarbons. He watched carefully
+as he moved deeper into the story. He didn't want to lose them here.
+
+They stayed with him, incredulous but confident that he knew what he
+was talking about. It was when he spoke of the fluctuating potential
+measurements, that proved to be interpretable as EEG recordings that
+he almost lost them. But he introduced Tom Banning quickly to verify
+his statements. And Tom introduced the EEG machine itself. He offered
+to demonstrate. A half dozen of the reporters tried it. _They_ had no
+doubts, afterward.
+
+"You can almost draw your own conclusions," said Jim in winding up the
+conference. "That thing is out there in our sky. There's no doubt about
+it. I've shown you what we know. Now let me tell you what I believe:
+
+"There is some form of life in the moon. It is not merely _in_ the
+moon. It _is_ the moon. I believe its bulk occupies almost the entire
+volume of the moon. I believe this nemesis was spawned incalculable
+eons ago in a time and a space that is literally outside our own. It
+was driven out of that time and space by intelligent beings who could
+not destroy it, but who could at least exile it in a state of dormancy.
+Or perhaps they thought they had destroyed it and wanted not even the
+remains in their own domain. Perhaps the craters of the moon were
+caused by bombardment intended to destroy the thing.
+
+"But it is not dead. It _was_ dormant. Now, our laser probings have
+stirred it to feeble life. It made a deliberate effort to capture or
+destroy the Prospector by opening a fissure beneath it. My TV film
+recording proves that the fissure was not there previously.
+
+"What are we to do about it? That is why I have called you here.
+Consider that the science of the intelligences in the domain that
+spawned this thing could not destroy it. What chance has our feeble
+science and powers against such a force? Hydrogen bombs would probably
+serve only to feed it the energy for which it is starved.
+
+"We must cease our lunar exploration program at once. We can hope that
+it is not too late. If it is not, this thing may relapse into the
+dormancy from which it has been shaken. We can only hope.
+
+"But if we persist in our explorations and our probings of the moon
+we are certain to loose upon ourselves a living force that our entire
+world of science will be helpless to overcome.
+
+"We must stop the moon program now!"
+
+       *       *       *       *       *
+
+They kept him for another two hours with questions and demands for
+further information. He gave them everything he knew, and when they
+finally left, he felt that a sane and correct story of his findings
+would be published. He waited for whatever results would be published
+by the news services the following morning.
+
+He waited.
+
+There was nothing.
+
+Eddie Fry called him two days later. Eddie was the reporter who knew
+him best. "They killed the story," said Eddie. "We had to clear it with
+government sources, and they persuaded every press association and
+newspaper that knew about it to kill it. They said it would destroy the
+national economy that was being built up on the space program. We tried
+to make them believe it, Jim, but we couldn't do it. It was hard enough
+to be convinced when we were listening to you. Second hand, it just
+wouldn't go over. You really can't blame them.
+
+"They're doing something else, too. They're really going to nail you
+for this thing. A story is being released about your dismissal. It is
+said that you were released for fantastic and unreliable theories and
+for incompetence that resulted in the loss of the Prospector. I'm sorry
+as hell, Jim. I wish we could kill that one, but there's not a thing we
+can do for you."
+
+"It's o.k., Eddie," said Jim. "I know how it is."
+
+Crackpot. He was finished.
+
+He called Allan at his base that night. His brother-in-law's voice was
+icy as he answered. "What do you want, Jim?"
+
+"Come down over the weekend, can you, Allan? I've got something
+important I want to talk to you about."
+
+"Listen, Jim. Stay away from me! Don't call; don't try to see me. Don't
+send me letters or telegrams. Nothing! Do you understand that?"
+
+"What the devil--?"
+
+"They're investigating me. Because of you. They want to know how much
+I've been listening to your crackpot notions. They're afraid maybe it
+will produce an instability that will make me unfit for the moon trip.
+If I lose out, it will be because of you!"
+
+"That's what I want to talk to you about. Allan, you've got to listen
+to me! You won't get off the moon alive--"
+
+The phone went dead. Jim hung up slowly and went back to the living
+room where Mary sat in tense, white fear. She had heard Jim's side of
+the conversation. She guessed what Allan had said.
+
+"It's no use," said Jim. "Don't try to reach him. He'll hate you
+forever."
+
+       *       *       *       *       *
+
+It was no use to run, but they ran anyway. This was what Sam meant when
+he said he knew what Jim was going to do. Jim Cochran was completely
+blackballed in his own profession. As he said, he couldn't have gotten
+a job stirring with a wooden paddle in a soap factory.
+
+Tom Banning and his family went with them. They went as far north as
+they could and finally stopped running on the edge of the Canadian
+wilderness. They pooled their funds and bought some wheat land and some
+cattle stock and tried to stop thinking beyond the end of each day.
+
+They were grateful for the absence of television, but they kept a
+radio. Through it, they learned when the Apollo finally took off with
+its three-man crew. They followed its two and a half day journey
+through space and heard the voice of Captain Allan Wright announce they
+were in lunar orbit.
+
+A few hours later the landing capsule was disengaged from the
+spaceship and Captain Wright and William Chambers rode it down. Their
+voices were heard in exultation as they announced their first steps on
+the surface of the moon.
+
+It was night in northern Canada when the landing was made. Jim and Sam
+and Tom and their families were outside watching the full moon, trying
+to imagine how it was up there. From the house they heard the radio
+relaying the voices of the astronauts. The voices were relayed to earth
+through the more powerful transmitter of the orbiting Apollo, but as
+the spaceship circled the moon the voices of the men on the surface
+were lost. Then they returned once more as the ship came over their
+horizon.
+
+For five orbits their voices came and went as they described their
+sensations and exulted in the first minutes of their achievement. Then,
+on the sixth orbit, there were no voices. There was only the sudden,
+shrill cry of the third crewman, Don Anderson, who manned the orbiting
+ship.
+
+"Allan! Bill! Apollo to capsule: Come in, please. Bill--where are
+you--I can't even see your capsule. I'm passing right over the spot.
+Apollo to Base: I can't locate the capsule through the telescope. It
+looks like a big crevasse right where the capsule was, but it wasn't
+there before. Allan--Bill--Come in! Come in!"
+
+Jim heard the sudden sob that shook Mary. He put his arm about her
+shoulders and led her into the house.
+
+Don Anderson remained in lunar orbit for two more days. Then he was
+ordered home. He landed safely.
+
+There were expressions of national sorrow over the unexplained loss of
+the two astronauts, but plans were renewed for the next voyage. The
+President said that sacrifices must be expected if this great goal
+were to be achieved, and that it would be a betrayal of those who had
+already given their lives if the work were to stop now.
+
+In Canada that winter, Jim was sure the wolves howled on cold, moonlit
+nights more than ever before. And something new was happening to the
+moon. The silver light was taking on a faint tint of orange. The radio
+told of a very learned report by some astronomer who spoke obscurely of
+changes in albedo and percentages of atmospheric dust and angstroms of
+sunlight. Any fool could see the moon was changing color.
+
+Jim listened to the wolves howling in the forest, and he thought of
+Cramer's Pond when he was a boy, and of a machine tumbling into a
+crevasse where a terrible darkness lay, and he wondered how long it
+would be.
+
+
+                                THE END
